@@ -4,4 +4,4 @@ let user=
     age:19,
     city:'Minsk'
 };
-console.log(user);
+console.log(user.name);
